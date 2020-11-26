@@ -1,0 +1,17 @@
+Knowledge Base:
+
+(R & O) = W
+
+(A & ~R) = P
+
+~W
+
+O
+
+A
+
+Prove the following sentences by refutation:
+
+P
+
+R
